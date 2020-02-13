@@ -17,7 +17,7 @@ figure, figcaption, footer, header, hgroup,
 menu, nav, output, ruby, section, summary,
 time, mark, audio, video {
 	margin: 0;
-	border: 1px solid grey;
+	
 	padding: 0;
 	font-size: 100%;
 	font: inherit;
@@ -61,7 +61,7 @@ html, body {
 h1, h2, h3, h4, h5 {
     font-family: 'Bangers', cursive;
     letter-spacing: 1px;
-    margin-bottom: 15px;
+    margin-bottom: 1%;
 }
 
 /* Your code starts here! */
@@ -100,7 +100,6 @@ div .catchphrase {
 
 button {
 	text-align: center;
-	margin: 0 10%;
 	
 }
 
@@ -111,7 +110,7 @@ h2 {
 
 .headerimg {
 	display: inline-block;
-	width: 40%;
+	width: 100%;
 	margin-left: 5%;
 	padding-right: 5%;
 	padding-top: 2%;
@@ -127,17 +126,30 @@ h2 {
 	padding-left: 10%;
 }
 
+.rightmain {
+	display: inline-block;
+	width: 40%;
+	vertical-align: top;
+	padding-top: 5%;
+	padding-left: 10%;
+	padding-bottom: 10%;
+}
+
 .featuresdiv{
 	display: inline-block;
-	width: 49%;
+	width: 40%;
 	font-size: 24px;
 	text-align: justify;
+	margin-right: 5%;
+	margin-left: 5%;
 }
 .aboutdiv {
 	display: inline-block;
-	width: 49%;
+	width: 40%;
 	font-size: 24px;
 	text-align: justify;
+	margin-left: 5%;
+	margin-right: 4%;
 }
 
 
@@ -160,7 +172,7 @@ margin: 5px;
 
 .middle-img {
 	display: inline-block;
-	margin-left: 25%;
+	margin-left: 15%;
 	margin-top: 1%;
 	margin-bottom: 1%;
 }
