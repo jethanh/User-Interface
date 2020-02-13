@@ -141,6 +141,7 @@ h2 {
 	font-size: 24px;
 	text-align: justify;
 	margin-right: 19%;
+	margin-bottom: 2%;
 }
 .aboutdiv {
 	display: inline-block;
@@ -178,12 +179,15 @@ margin: 5px;
 .servicesdiv {
 	display: inline-block;
 	width: 30%;
+	margin-right: 5%;
 
 }
 
 .productdiv {
 	display: inline-block;
 	width: 30%;
+	margin-right: 4%;
+	margin-bottom: 2%;
 }
 
 .visiondiv {
