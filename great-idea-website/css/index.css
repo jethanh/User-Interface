@@ -194,3 +194,16 @@ margin: 5px;
 	display: inline-block;
 	width: 30%;
 }
+
+.copyright p{
+	text-align: center;
+	display:inline-block;
+	margin-left: 45%;
+	margin-bottom: 2%;
+	text-transform: uppercase;
+	font-size: smaller;
+}
+
+.hr2 {
+	margin-bottom: 2%;
+}
