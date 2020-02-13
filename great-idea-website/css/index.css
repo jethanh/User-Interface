@@ -82,7 +82,7 @@ nav a {
 
 .navlinks {
 	display: inline-block;
-	width: 80%;
+	width: 85%;
 }
 
 .logo {
@@ -140,16 +140,14 @@ h2 {
 	width: 40%;
 	font-size: 24px;
 	text-align: justify;
-	margin-right: 5%;
-	margin-left: 5%;
+	margin-right: 19%;
 }
 .aboutdiv {
 	display: inline-block;
 	width: 40%;
 	font-size: 24px;
 	text-align: justify;
-	margin-left: 5%;
-	margin-right: 4%;
+	
 }
 
 
@@ -175,4 +173,20 @@ margin: 5px;
 	width: 100%;
 	margin-top: 1%;
 	margin-bottom: 1%;
+}
+
+.servicesdiv {
+	display: inline-block;
+	width: 30%;
+
+}
+
+.productdiv {
+	display: inline-block;
+	width: 30%;
+}
+
+.visiondiv {
+	display: inline-block;
+	width: 30%;
 }
