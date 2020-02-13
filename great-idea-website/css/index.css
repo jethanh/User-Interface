@@ -94,7 +94,7 @@ nav a {
 section .navlinks{
 	display: inline-block;
 	position: fixed;
-	background-color: lightgrey;
+	background-color: white;
 	width: 70%
 }
 
